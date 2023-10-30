@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;hiw0VACC#0FtGRN8HhxxWlNZY8YcL0m6Qu42_x4vzDKleIIdhMfs' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://krishan_user:JPseAV63KhHrzjLiFd5sFRKFGnZZqUPP@dpg-ckvjvlub0mos73a7hv60-a.frankfurt-postgres.render.com/krishan'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94764224187'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'KRISHAN_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -47,7 +47,7 @@ global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@KRISHAN 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -67,7 +67,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false
 
 global.ONLY_GROUP = 'false' // Only group mode
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: KRISHAN LIVE" //ur yt chanel name
+global.socialm = "GitHub: KRISHAN" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
